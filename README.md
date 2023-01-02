@@ -1,1 +1,3 @@
-# secret-ally
+# Secret Ally
+
+Code for generating secret allies.
